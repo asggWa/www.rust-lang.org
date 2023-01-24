@@ -1,3 +1,7 @@
+treebtc is now fork rust
+if you are simply found rust, fork
+Esta implementación de rust es muy inestable porque 
+es una primera fase de desarollo y puede cortocircuitar en versionse nuevas.
 # www.rust-lang.org
 > the home of the rust website
 
